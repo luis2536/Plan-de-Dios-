@@ -1,0 +1,6 @@
+{
+  "name": "Plan de Dios",
+  "description": "Aplicación financiera para parejas, gestión de presupuesto, control de despensa con duración, simulador de compras y asistente AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

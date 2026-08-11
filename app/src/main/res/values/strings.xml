@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plan de Dios</string>
+    <string name="welcome_title">Plan de Dios - Control Financiero</string>
+    <string name="nav_dashboard">Panel Principal</string>
+    <string name="nav_pantry">Despensa y Días</string>
+    <string name="nav_debts">Deudas y Pagos</string>
+    <string name="nav_simulator">Simulador Compras</string>
+    <string name="nav_ai_assistant">Asistente AI</string>
+</resources>
